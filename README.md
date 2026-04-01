@@ -9,7 +9,7 @@ Uma landing page premium, moderna e de alta conversão para o **Hospital Veterin
 - **Atendimento 24h**: Destaque para urgência e emergência na Tijuca.
 - **Especialidades Médicas**: Grid detalhada de serviços especializados.
 - **Exames de Imagem**: Foco na tecnologia **Versana Active VET**.
-- **Centro de Capacitação**: Seção dedicada a cursos e formação de profissionais.
+- **Curso de Ultrassonografia**: Seção dedicada a cursos e formação de profissionais.
 - **Localização Inteligente**: Google Maps interativo no rodapé.
 - **Identidade Visual Premium**: Branding consistente com o ampersand (&) verde e tipografia `Outfit`.
 

@@ -42,7 +42,7 @@ O projeto está configurado para ser servido em uma subpasta:
 1. **Aesthetics First**: Todas as novas seções devem seguir o padrão premium, com bordas arredondadas (**40px** para seções grandes, **20px** para cartões) e sombras suaves.
 2. **Mobile-First**: A grid do rodapé e a lista de especialidades devem ser responsivas.
 3. **No Placeholders**: Sempre use imagens reais fornecidas pelo cliente ou geradas com qualidade ultra-alta.
-4. **Authority Focus**: Enfatize as credenciais da **Dra. Adriene Firmo (CRMV RJ 5302)** e o **Centro de Capacitação Profissional**.
+4. **Authority Focus**: Enfatize as credenciais da **Dra. Adriene Firmo (CRMV RJ 5302)** e o **Curso de Ultrassonografia**.
 
 > [!NOTE]
 > Este projeto não utiliza TailwindCSS por opção de design, priorizando o controle total sobre o CSS Vanilla.

@@ -29,7 +29,7 @@ function App() {
               FOCO EM CARREIRA
             </span>
             <h3 className="cursos-title" style={{ color: 'var(--white)', marginBottom: '1.5rem' }}>
-              Centro de <span style={{ color: 'var(--primary-green)' }}>Capacitação Profissional</span>
+              Curso de <span style={{ color: 'var(--primary-green)' }}>Ultrassonografia</span>
             </h3>
             <p className="cursos-desc" style={{ marginBottom: '3.5rem', opacity: 0.9, maxWidth: '800px', margin: '0 auto' }}>
               Cursos teóricos e práticos de Ultrassonografia Digital e Medicina de Felinos. 
@@ -45,7 +45,7 @@ function App() {
             }}>
               <img 
                 src={bannerImg} 
-                alt="Centro de Capacitação Canne & Gatto" 
+                alt="Curso de Ultrassonografia Canne & Gatto" 
                 style={{ 
                   width: '100%', 
                   display: 'block'

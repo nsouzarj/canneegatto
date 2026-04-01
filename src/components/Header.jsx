@@ -50,6 +50,7 @@ const Header = () => {
         }} className={isMenuOpen ? 'nav-open' : 'nav-desktop'}>
           <a href="#servicos" onClick={() => setIsMenuOpen(false)} style={{ fontWeight: 600, fontSize: '0.9rem' }}>Serviços</a>
           <a href="#especialidades" onClick={() => setIsMenuOpen(false)} style={{ fontWeight: 600, fontSize: '0.9rem' }}>Especialidades</a>
+          <a href="#cursos" onClick={() => setIsMenuOpen(false)} style={{ fontWeight: 600, fontSize: '0.9rem' }}>Curso de Ultrassonografia</a>
           <span className="badge desktop-only" style={{ backgroundColor: 'var(--secondary-peach)', color: 'white' }}>
             24 horas
           </span>

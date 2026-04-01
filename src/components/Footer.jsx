@@ -4,7 +4,7 @@ import logo from '../assets/logocanneegatto.jpg';
 const Footer = () => {
   return (
     <footer style={{ 
-      backgroundColor: 'var(--primary-brown)', 
+      backgroundColor: 'var(--footer-dark)', 
       color: 'var(--white)',
       padding: '80px 0 40px'
     }}>

@@ -32,7 +32,7 @@ const DNA = () => {
         <div className="dna-content" style={{ marginTop: '4rem', color: 'var(--text-muted)' }}>
           <p className="dna-text" style={{ marginBottom: '3rem' }}>
             Desde 2011, a Canne & Gatto se dedica a oferecer medicina veterinária de ponta na Tijuca. 
-            Nossa abordagem une o carinho com a precisão tecnológica, tornando-nos referência em Diagnóstico por Imagem e Capacitação Profissional.
+            Nossa abordagem une o carinho com a precisão tecnológica, tornando-nos referência em Diagnóstico por Imagem e Cursos de Ultrassonografia.
           </p>
           
           <div className="coord-card" style={{ 
@@ -55,7 +55,7 @@ const DNA = () => {
               MV, Especialista — CRMV RJ 5302
             </p>
             <p className="coord-desc" style={{ lineHeight: '1.6', opacity: 0.9 }}>
-              Especialista em Diagnóstico por Imagem e referência regional em Ultrassonografia Doppler e Medicina de Felinos. Coordenadora do Centro de Capacitação Profissional Canne & Gatto.
+              Especialista em Diagnóstico por Imagem e referência regional em Ultrassonografia Doppler e Medicina de Felinos. Coordenadora do Curso de Ultrassonografia Canne & Gatto.
             </p>
           </div>
         </div>
